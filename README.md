@@ -6,7 +6,7 @@ I'm a **Senior Software Developer** at [Birlasoft Ltd](https://www.birlasoft.com
 
 - 🎓 **Education:**
   - **Bachelor's Degree** in Computer Science.
-  - Currently pursuing a **Master's Degree** in Computer Science.
+  - **Master's Degree** in Computer Science.
     - **Research Focus:** Hyperledger Fabric and private blockchains.
 
 - 💼 **Professional Experience:**
