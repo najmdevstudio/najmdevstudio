@@ -1,49 +1,56 @@
-# Hi there, I'm [Mohammad Najm] 👋
+# Hi, I'm Mohammad Najm 👋
 
-## 👨‍💻 About Me
+## Enterprise Java Engineer | System Design | AI in Production
 
-I'm a **Senior Software Developer** at [Birlasoft Ltd](https://www.birlasoft.com/), specializing in projects within the **Banking and Finance (BFSI)** sector. With over **9 years** of experience in the tech industry, I bring a blend of programming expertise and network administration skills to the table.
+I design, build, and operate enterprise-grade systems with a primary focus on JVM-based platforms (Java, Spring Boot, Quarkus) in regulated environments such as BFSI.
 
-- 🎓 **Education:**
-  - **Bachelor's Degree** in Computer Science.
-  - **Master's Degree** in Computer Science.
-    - **Research Focus:** Hyperledger Fabric and private blockchains.
-
-- 💼 **Professional Experience:**
-  - **4 years** of Java programming experience.
-  - **5 years** of Network Administration experience.
-
-- 💻 **Technical Skills:**
-  - **Languages:** Java, C#, JavaScript, Rust.
-  - **Frameworks:** React , SpringBoot, Next.Js, Struts, JSP, .NET.
-  - **Expertise:** Blockchain technology, Hyperledger Fabric, open-source contributions.
-  - **Operating Systems:** Linux, MacOS, Windows
-    
-
-## 🚀 Open to Opportunities
-
-I'm open to **new paid projects** and enthusiastic about **voluntary contributions** to open-source technologies. Let's collaborate to bring innovative ideas to life!
-
-## 📫 How to Reach Me
-
-- **Email:** [contact@mohdnajm.me](mailto:contact@mohdnajm.me)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mohdnajm)
-- **GitHub:** [najmdevstudio](https://github.com/najmdevstudio)
+My work centers on full application lifecycle ownership — from architecture and implementation to deployment, observability, resilience, and long-term operational stability.
 
 ---
 
-⭐️ From [najmdevstudio](https://github.com/najmdevstudio)
-<!--
-**najmdevstudio/najmdevstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Current Focus
 
-Here are some ideas to get you started:
+- Enterprise application architecture
+- Distributed systems & service orchestration
+- AI application engineering (production deployment & governance)
+- Multi-agent LLM workflows using Spring AI
+- JVM performance & virtual threads
+- Observability (Prometheus, Grafana) and resilience patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏗️ Areas of Experience
+
+- High-throughput backend services
+- Transactional enterprise platforms
+- AI-assisted workflow orchestration
+- Audit logging & compliance-aware system design
+- Blockchain systems (Hyperledger Fabric research & implementation)
+
+---
+
+## 🛠️ Core Technologies
+
+**Primary Stack**
+- Java (JVM ecosystem)
+- Spring Boot / Spring AI
+- PostgreSQL
+- Redis
+- React (supporting frontend layer)
+
+**Infrastructure & Operations**
+- CI/CD pipelines
+- Containerized deployments
+- Monitoring & metrics instrumentation
+
+---
+
+## 📫 Contact
+
+- Email: contact@mohdnajm.me
+- LinkedIn: www.linkedin.com/in/mohdnajmsoftwaredeveloper
+
+
+## 📌 Highlighted Project
+
+- Sentiment Support AI – Enterprise AI orchestration platform built with Java, Spring AI, and multi-agent workflow architecture.
